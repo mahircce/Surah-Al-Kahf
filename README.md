@@ -1,3 +1,3 @@
 # Surah-Al-Kahf
 
-https://mahircce.github.io/Surah-Al-Kahf/index.html
+https://mahircce.github.io/Surah-Al-Kahf
